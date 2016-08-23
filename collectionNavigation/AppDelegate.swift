@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  collectionNavigation
 //
-//  Created by Yogesh on 8/23/16.
+//  Created by Shemona on 8/23/16.
 //  Copyright © 2016 test. All rights reserved.
 //
 
